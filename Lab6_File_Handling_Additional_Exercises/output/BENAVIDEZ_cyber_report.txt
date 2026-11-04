@@ -1,0 +1,20 @@
+CYBERSECURITY INCIDENT REPORT
+============================
+Student: BENAVIDEZ
+Student ID: TUPM-26-1835
+Target Year: 2020
+Total Records: 3000
+Incidents in Target Year: 315
+Count per Attack Type: {'Malware': 37, 'Phishing': 61, 'Man-in-the-Middle': 47, 'DDoS': 56, 'SQL Injection': 55, 'Ransomware': 59}
+Total Financial Loss: 15767.95 million USD
+Average Financial Loss: 50.06 million USD
+
+FIVE COSTLIEST INCIDENTS
+1. Ransomware - 99.90 million USD
+2. DDoS - 99.83 million USD
+3. DDoS - 99.81 million USD
+4. SQL Injection - 99.72 million USD
+5. Phishing - 99.64 million USD
+
+Time Complexity: O(n log n)
+Space Complexity: O(n)

@@ -1,0 +1,17 @@
+{
+    "Student": "BENAVIDEZ",
+    "Student ID": "TUPM-26-1835",
+    "Operating System": "iOS",
+    "Target Behavior Class": 1,
+    "Total Records in Dataset": 700,
+    "Records Matching Operating System": 146,
+    "Records in Target Behavior Class": 22,
+    "Average Battery Drain (mAh/day)": 467.23,
+    "Average Data Usage (MB/day)": 201.45,
+    "Count Verification": {
+        "Dataset Count": 700,
+        "iOS Count": 146,
+        "Target Class Count": 22
+    },
+    "Exported CSV File": "BENAVIDEZ_mobile_filtered.csv"
+}
