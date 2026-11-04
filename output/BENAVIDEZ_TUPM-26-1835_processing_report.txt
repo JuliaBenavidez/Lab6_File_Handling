@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: BENAVIDEZ
+Student ID: TUPM-26-1835
+Seed Digit: 5
+ID Sum: 25
+Verification Value: 230
+Dataset Sample Size: 75
+Valid Records: 75
+Average Global Active Power: 4.040
+JSON File: BENAVIDEZ_TUPM-26-1835_record.json
+Backup File: BENAVIDEZ_TUPM-26-1835_record.csv

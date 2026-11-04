@@ -1,0 +1,4 @@
+Student: BENAVIDEZ
+Student ID: TUPM-26-1835
+ID sum: 25
+Verification value: 230
