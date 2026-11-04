@@ -1,0 +1,37 @@
+{
+    "Student": "BENAVIDEZ",
+    "Student ID": "TUPM-26-1835",
+    "Records Processed": 1025,
+    "Target Status Class": "3xx",
+    "Records in Target Class": 165,
+    "Count per Status Code": {
+        "200": 847,
+        "302": 144,
+        "304": 21,
+        "206": 8,
+        "404": 5
+    },
+    "Five Most Requested URLs": [
+        {
+            "URL": "GET / HTTP/1.1",
+            "Count": 46
+        },
+        {
+            "URL": "POST /process.php HTTP/1.1",
+            "Count": 35
+        },
+        {
+            "URL": "GET /contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest HTTP/1.1",
+            "Count": 34
+        },
+        {
+            "URL": "GET /home.php HTTP/1.1",
+            "Count": 9
+        },
+        {
+            "URL": "GET /logout.php HTTP/1.1",
+            "Count": 7
+        }
+    ],
+    "Filtered CSV File": "BENAVIDEZ_web_filtered.csv"
+}
