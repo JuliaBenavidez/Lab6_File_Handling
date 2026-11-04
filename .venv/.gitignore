@@ -1,0 +1,5 @@
+.vvenv/
+__pycache__/
+*.pyc
+.ipnyb_checkpoints/
+data/
